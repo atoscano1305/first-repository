@@ -2,4 +2,4 @@
 
 - This is my first repository
 
-- name: Amauri Toscano
+- name: Amauri Toscano student
